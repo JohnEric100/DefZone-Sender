@@ -11,7 +11,7 @@ Sceenshots:
 <br>
 <img src="Screenshot4.jpg">
 <br>
-Contact :
+communicat with me on :
 <br>
 <a href="https://www.facebook.com/abdu.hifz">Facebook</a>
 <br>
