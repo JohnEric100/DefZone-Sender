@@ -25,7 +25,7 @@ echo "                          |  _ \| ____|  ___|__  / _ \| \ | | ____| / ___|
 echo "                          | | | |  _| | |_    / / | | |  \| |  _|   \___ \|  _| |  \| | | | |  _| | |_) |  "
 echo "                          | |_| | |___|  _|  / /| |_| | |\  | |___   ___) | |___| |\  | |_| | |___|  _ <   "
 echo "                          |____/|_____|_|   /____\___/|_| \_|_____| |____/|_____|_| \_|____/|_____|_| \_\  "
-echo -e "                                                                    "$green"Intelligence Minded          "$cyan" ver=1.5"
+echo -e "                                                                    "$green"Intelligence Minded          "$cyan" ver=1.2"
 }
 #defaced successfully banner appears
 function successfully()
