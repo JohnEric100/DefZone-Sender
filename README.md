@@ -1,4 +1,4 @@
-# DefZone-Sender version 1.5
+# DefZone-Sender version 1.2
 ***Screenshots***:
 ![screenshot1](https://user-images.githubusercontent.com/25101476/49776841-a17df480-fd1f-11e8-9b52-da929687de8d.png)
 
